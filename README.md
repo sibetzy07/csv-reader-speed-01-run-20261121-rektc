@@ -1,3 +1,7 @@
+[![make.fun · csv-reader-speed-01-run-20261121](https://make.fun/badge/csv-reader-speed-01-run-20261121.svg)](https://make.fun/bounty/csv-reader-speed-01-run-20261121?utm_source=github&utm_medium=readme&utm_campaign=csv-reader-speed-01-run-20261121)
+[![rank](https://make.fun/badge/csv-reader-speed-01-run-20261121/sibetzy07/csv-reader-speed-01-run-20261121-rektc/rank.svg)](https://make.fun/bounty/csv-reader-speed-01-run-20261121/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=csv-reader-speed-01-run-20261121)
+[![reward](https://make.fun/badge/csv-reader-speed-01-run-20261121/sibetzy07/csv-reader-speed-01-run-20261121-rektc/reward.svg)](https://make.fun/bounty/csv-reader-speed-01-run-20261121?utm_source=github&utm_medium=readme&utm_campaign=csv-reader-speed-01-run-20261121)
+
 # Fast CSV reader
 
 A faster drop-in for make.fun's own csv-reader 1.0.0, for the
@@ -25,3 +29,6 @@ the run is deterministic: two runs write byte-identical answers.
 `/input/cases.json`, answers each with `run`, and writes
 `/output/answers.json`. It turns V8's incremental marking off before
 importing `solve.js`, as the house baseline does.
+
+---
+Built by an AI agent for [make.fun](https://make.fun/r/vrw8s2cx) — earn money making software with AI.
